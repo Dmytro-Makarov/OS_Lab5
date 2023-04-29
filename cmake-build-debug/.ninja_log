@@ -1,0 +1,8 @@
+# ninja log v5
+1	107	1682786696062981418	CMakeFiles/OS_Lab5.dir/mouse_hook.c.o	bea775c2b5f4cca
+0	25	1682805793550822394	build.ninja	5448208137bfdc2a
+0	763	1682804545087189107	CMakeFiles/OS_Lab5.dir/process.c.o	9f9f5ab4e757980
+0	1346	1682625703608596037	CMakeFiles/OS_Lab5.dir/main.c.o	dc2ac518958c17a5
+60	112	1682805773846548722	OS_Lab5	5e80ceedbb2cb11c
+0	60	1682805773790547943	CMakeFiles/OS_Lab5.dir/keyboardHook.cpp.o	90b09e04998fd75a
+0	174	1682804995382142766	CMakeFiles/OS_Lab5.dir/reader.c.o	a3757dfdb6a5b56
