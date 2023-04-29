@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-    char foo[] = "";
+    char foo[] = "roflcopter";
 
     printf("pid: %d\n", getpid());
     printf("address: %lx\n", (size_t)foo);

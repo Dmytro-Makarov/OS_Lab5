@@ -7,7 +7,7 @@
 
 int main(int argc, char* argv[]) {
     if (argc != 4) {
-        printf("./reader <pid> <address> <length>\n");
+        printf("sudo ./reader <pid> <address> <length>\n");
         exit(1);
     }
 

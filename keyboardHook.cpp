@@ -60,5 +60,7 @@ int main() {
             }
         }
         close(fd1);
+    } else {
+        printf("Could not open file, try using sudo");
     }
 }
